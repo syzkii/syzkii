@@ -22,4 +22,4 @@ I'm 19 years old.
 [![GH Stats](https://github-readme-stats.vercel.app/api?username=syzkii&show_icons=true&theme=dark)](https://github.com/syzkii)
 
 #### WakaTime (reload if the image failed to load)
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=syzkii&layout=compact)](https://wakatime.com/@syzkii)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Syzkii&layout=compact)](https://wakatime.com/@syzkii)
