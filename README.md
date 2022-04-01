@@ -19,7 +19,8 @@ I'm 19 years old.
 </div>
 
 #### GitHub
-[![GH Stats](https://github-readme-stats.vercel.app/api?username=syzkii&show_icons=true&theme=dark)](https://github.com/syzkii)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=syzkii&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LintangDev&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 #### WakaTime (reload if the image failed to load)
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Syzkii&layout=compact)](https://wakatime.com/@syzkii)
