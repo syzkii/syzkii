@@ -11,7 +11,7 @@ I'm 19 years old.
   <a href="https://reactjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" /></a>
 </div>
 
-###⌨️Tools :
+### ⌨️Tools :
 <div>
   <a href="https://code.visualstudio.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" /></a>
   <a href="https://visualstudio.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="30" /></a>
@@ -20,7 +20,7 @@ I'm 19 years old.
   <a href="https://npmjs.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="30" /></a>
 </div>
 
-###⌨️Framework
+### ⌨️Framework
 <div>
   <a href="https://getbootstrap.com/"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-plain-wordmark.svg" width="30" /></a>
   <a href="https://tailwindcss.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30" /></a>
