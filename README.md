@@ -16,7 +16,7 @@ I'm a 19 years old.
 <div>
   <a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" /></a>
   <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" /></a>
-  <a href="https://github.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="30" /></a>
+  <a href="https://github.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="30" /></a>
   <a href="https://gitlab.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" width="30" /></a>
   <a href="https://git-scm.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30" /></a>
   <a href="https://npmjs.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="30" /></a>
