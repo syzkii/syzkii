@@ -2,7 +2,7 @@
 
 My name is Rifki Ardian Akbar. you can call me Kiki || 19 years old.
 
-### ⌨️ Languages :
+### ⌨️ Languages
 <div>
   <a href="https://www.php.net/"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="30" /></a>
   <a href="https://html.com/css/"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="30" /></a>
@@ -11,7 +11,7 @@ My name is Rifki Ardian Akbar. you can call me Kiki || 19 years old.
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" /></a>
 </div>
 
-### ⌨️Tools :
+### ⌨️Tools
 <div>
   <a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" /></a>
   <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" /></a>
