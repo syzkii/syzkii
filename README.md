@@ -1,17 +1,19 @@
-## Welcome to my Profile
+## Welcome to my Profile <img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" width="30px" />
 
 My name is Rifki Ardian Akbar. 
 I'm 19 years old.
 
 ### ⌨️ Languages :
 <div>
-  <a href="https://typescriptlang.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" /></a>
+  <a href="https://www.php.net/"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="30" /></a>
+  <a href="https://html.com/css/"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="30" /></a>
+  <a href="https://www.python.org/"><img src="https://duckduckgo.com/i/4d837687.png" width="30" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" /></a>
-  <a href="https://nodejs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" /></a>
 </div>
 
 ### ⌨️Tools :
 <div>
+  <a href="https://nodejs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" /></a>
   <a href="https://code.visualstudio.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" /></a>
   <a href="https://npmjs.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="30" /></a>
 </div>
