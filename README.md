@@ -19,7 +19,7 @@ I'm 19 years old.
 ### ⌨️ Operating System
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows/windows-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows/windows.svg" width="30" />
 </div>
 
 ### ⌨️Framework
