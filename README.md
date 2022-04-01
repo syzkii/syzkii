@@ -26,7 +26,7 @@ I'm 19 years old.
 <div>
   <a href="https://reactjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" /></a>
   <a href="https://tailwindcss.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30" /></a>
-  <a href="https://getbootstrap.com/"><img src="https://https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="30" /></a>
+  <a href="#"><img src="https://https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="30" /></a>
 </div>
 
 #### GitHub
