@@ -35,7 +35,7 @@ My name is Rifki Ardian Akbar. you can call me Kiki || 19 years old.
 </div>
 
 #### GitHub
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=syzkii&theme=tokyonight)](https://github.com/syzkii/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=syzkii&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=syzkii&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 #### WakaTime
