@@ -8,7 +8,6 @@ I'm 19 years old.
   <a href="https://typescriptlang.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" /></a>
   <a href="https://nodejs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" /></a>
-  <a href="https://reactjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" /></a>
 </div>
 
 ### ⌨️Tools :
@@ -19,11 +18,12 @@ I'm 19 years old.
 ### ⌨️ Operating System
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows/windows.svg" width="30" />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/windows8/windows8-original.svg" width="30" />
 </div>
 
 ### ⌨️Framework
 <div>
+  <a href="https://reactjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" /></a>
   <a href="https://getbootstrap.com/"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-plain-wordmark.svg" width="30" /></a>
   <a href="https://tailwindcss.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30" /></a>
 </div>
