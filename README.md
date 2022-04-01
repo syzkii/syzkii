@@ -26,11 +26,11 @@ I'm 19 years old.
 <div>
   <a href="https://reactjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" /></a>
   <a href="https://tailwindcss.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30" /></a>
-  <a href="https://getbootstrap.com/"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-plain-wordmark.svg" width="30" /></a>
+  <a href="https://getbootstrap.com/"><img src="https://https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="30" /></a>
 </div>
 
 #### GitHub
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=syzkii&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=syzkii&theme=tokyonight)](https://github.com/syzkii/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=syzkii&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 #### WakaTime (reload if the image failed to load)
