@@ -1,7 +1,6 @@
 ## Welcome To My Profile <img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" width="30px" />
 
-My name is Rifki Ardian Akbar. 
-I'm a 19 years old.
+My name is Rifki Ardian Akbar. you can call me Kiki || 19 years old.
 
 ### ⌨️ Languages :
 <div>
