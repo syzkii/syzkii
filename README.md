@@ -27,7 +27,7 @@ My name is Rifki Ardian Akbar. you can call me Kiki || 19 years old.
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/windows8/windows8-original.svg" width="30" />
 </div>
 
-### ⌨️Framework
+### ⌨️Framework & Library
 <div>
   <a href="https://reactjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" /></a>
   <a href="https://tailwindcss.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30" /></a>
