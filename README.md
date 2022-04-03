@@ -27,7 +27,7 @@ My name is Rifki Ardian Akbar. you can call me Kiki || 19 years old.
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/windows8/windows8-original.svg" width="30" />
 </div>
 
-### ⌨️Framework
+### ⌨️Framework & Library
 <div>
   <a href="https://reactjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" /></a>
   <a href="https://tailwindcss.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30" /></a>
@@ -35,7 +35,7 @@ My name is Rifki Ardian Akbar. you can call me Kiki || 19 years old.
 </div>
 
 #### GitHub
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=syzkii&theme=tokyonight)](https://github.com/syzkii/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=syzkii&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=syzkii&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 #### WakaTime
