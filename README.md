@@ -47,7 +47,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=syzkii&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 #### WakaTime
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=syzkii&layout=compact)](https://wakatime.com/@syzkii)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Syzkii&layout=compact)](https://wakatime.com/@Syzkii)
 
 
 [email]: mailto:rifkiardianakbar.raa@gmail.com
