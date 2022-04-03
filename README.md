@@ -1,6 +1,12 @@
 ## Welcome To My Profile <img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" width="30px" />
 
-My name is Rifki Ardian Akbar. you can call me Kiki || 19 years old.
+<h3>My name is Rifki Ardian Akbar. you can call me Kiki || 19 years old.</h3>
+
+
+### 📞 Contact Me:
+
+[<img align="left" alt="Syzkii | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />][email]
+[<img align="left" alt="Syzkii | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
 
 ### ⌨️ Languages
 <div>
@@ -40,3 +46,7 @@ My name is Rifki Ardian Akbar. you can call me Kiki || 19 years old.
 
 #### WakaTime
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Syzkii&layout=compact)](https://wakatime.com/@syzkii)
+
+
+[email]: mailto:rifkiardianakbar.raa@gmail.com
+[instagram]: https://instagram.com/ardianrifki.jpg
