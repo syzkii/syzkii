@@ -2,14 +2,6 @@
 
 <h3>My name is Rifki Ardian Akbar. you can call me Kiki || 19 years old.</h3>
 
-
-### 📞Contact Me
-
-[<img alt="Syzkii | YouTube" width="30px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />][email]
-[<img alt="Syzkii | Instagram" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
-
-</br>
-
 ### ⌨️Languages
 <div>
   <a href="https://www.php.net/"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="30" /></a>
@@ -41,6 +33,13 @@
   <a href="https://tailwindcss.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30" /></a>
   <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="30" /></a>
 </div>
+
+### 📞Contact Me
+
+[<img alt="Syzkii | YouTube" width="30px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />][email]
+[<img alt="Syzkii | Instagram" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
+
+</br>
 
 #### GitHub
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=syzkii&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
