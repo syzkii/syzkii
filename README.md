@@ -36,8 +36,10 @@
 
 ### 📞Contact Me
 
-[<img alt="Syzkii | YouTube" width="30px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />][email]
+[<img alt="Syzkii | Email" width="30px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />][email]
 [<img alt="Syzkii | Instagram" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
+[<img alt="Syzkii | Telegram" width="30px" src="https://www.flaticon.com/free-icon/telegram_2111646?term="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" />][telegram]
+
 
 </br>
 
@@ -51,3 +53,4 @@
 
 [email]: mailto:rifkiardianakbar.raa@gmail.com
 [instagram]: https://instagram.com/ardianrifki.jpg
+[telegram]: https://t.me/kikizz7
