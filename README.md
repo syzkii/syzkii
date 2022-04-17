@@ -36,8 +36,8 @@
 
 ### 📞Contact Me
 
-[<img alt="Syzkii | YouTube" width="30px" border="1px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />][email]
-[<img alt="Syzkii | Instagram" width="30px" border="1px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
+[<img alt="Syzkii | YouTube" width="30px" border="5px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />][email]
+[<img alt="Syzkii | Instagram" width="30px" border="5px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
 
 </br>
 
