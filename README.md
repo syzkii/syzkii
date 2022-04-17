@@ -5,8 +5,8 @@
 
 ### 📞Contact Me
 
-[<img align="center" alt="Syzkii | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />][email]
-[<img align="center" alt="Syzkii | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
+[<img align="right" alt="Syzkii | YouTube" width="30px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />][email]
+[<img align="left" alt="Syzkii | Instagram" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
 
 </br>
 
