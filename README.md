@@ -3,14 +3,14 @@
 <h3>My name is Rifki Ardian Akbar. you can call me Kiki || 19 years old.</h3>
 
 
-### Contact Me 📞
+### 📞Contact Me
 
 [<img align="left" alt="Syzkii | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />][email]
 [<img align="left" alt="Syzkii | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
 
 </br>
 
-### ⌨️ Languages
+### ⌨️Languages
 <div>
   <a href="https://www.php.net/"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="30" /></a>
   <a href="https://html.com/css/"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="30" /></a>
