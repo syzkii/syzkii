@@ -48,6 +48,17 @@
     </a>
 </p>
 
+<p>
+    <a href="https://github.com/syzkii"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syzkii&theme=tokyonight&layout=compact&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe" alt="Syzkii Top Langs" /></a>
+    <a href="https://github.com/syzkii"><img src="https://github-readme-stats.vercel.app/api?username=syzkii&show_icons=true&include_all_commits=true&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe&custom_title=Github+Stats" alt="Syzkii Profile Stats" /></a>
+</p>
+
+<p>
+    <a href="https://github.com/syzkii">
+        <img src="https://github-profile-trophy.vercel.app/?username=syzkii&theme=dracula&rank=S,AAA,AA,B,C,A&margin-w=10" alt="Syzkii Tropy Stats" />
+    </a>
+</p>
+
 </br>
 
 #### GitHub
