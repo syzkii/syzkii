@@ -48,26 +48,26 @@
     </a>
 </p>
 
+</br>
+
+#### GitHub
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=syzkii&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 <p>
     <a href="https://github.com/syzkii"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syzkii&theme=tokyonight&layout=compact&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe" alt="Syzkii Top Langs" /></a>
-    <a href="https://github.com/syzkii"><img src="https://github-readme-stats.vercel.app/api?username=syzkii&show_icons=true&include_all_commits=true&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe&custom_title=Github+Stats" alt="Syzkii Profile Stats" /></a>
 </p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=syzkii&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+#### WakaTime
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Syzkii&layout=compact)](https://wakatime.com/@Syzkii)
+
 
 <p>
     <a href="https://github.com/syzkii">
         <img src="https://github-profile-trophy.vercel.app/?username=syzkii&theme=dracula&rank=S,AAA,AA,B,C,A&margin-w=10" alt="Syzkii Tropy Stats" />
     </a>
 </p>
-
-</br>
-
-#### GitHub
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=syzkii&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=syzkii&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-#### WakaTime
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Syzkii&layout=compact)](https://wakatime.com/@Syzkii)
-
 
 [email]: mailto:rifkiardianakbar.raa@gmail.com
 [instagram]: https://instagram.com/ardianrifki.jpg
