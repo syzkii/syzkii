@@ -41,6 +41,13 @@
 [<img alt="Syzkii | Telegram" width="30px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" />][telegram]
 
 
+<h4>Visitor :eyes:</h4>
+<p>
+    <a href="https://github.com/syzkii">
+        <img src="https://profile-counter.glitch.me/{syzkii}/count.svg" alt="Syzkii Visitor's" />
+    </a>
+</p>
+
 </br>
 
 #### GitHub
