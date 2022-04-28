@@ -41,14 +41,12 @@
 [<img alt="Syzkii | Telegram" width="30px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" />][telegram]
 
 
-<h4>Visitor :eyes:</h4>
+<h4>Visitor's :eyes:</h4>
 <p>
     <a href="https://github.com/syzkii">
         <img src="https://profile-counter.glitch.me/{syzkii}/count.svg" alt="Syzkii Visitor's" />
     </a>
 </p>
-
-</br>
 
 #### GitHub
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=syzkii&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
@@ -62,7 +60,7 @@
 #### WakaTime
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Syzkii&layout=compact)](https://wakatime.com/@Syzkii)
 
-
+<h4>Trophy</h4>
 <p>
     <a href="https://github.com/syzkii">
         <img src="https://github-profile-trophy.vercel.app/?username=syzkii&theme=dracula&rank=S,AAA,AA,B,C,A&margin-w=10" alt="Syzkii Tropy Stats" />
