@@ -67,6 +67,10 @@
     </a>
 </p>
 
+
+[![@syzkii's Holopin board](https://holopin.me/syzkii)](https://holopin.io/@syzkii)
+
+
 [email]: mailto:rifkiardianakbar.raa@gmail.com
 [instagram]: https://instagram.com/ardianrifki.jpg
 [telegram]: https://t.me/kikizz7
