@@ -29,8 +29,6 @@
 
 ### ⌨️Framework & Library
 <div>
-  <a href="https://reactjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" /></a>
-  <a href="https://tailwindcss.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30" /></a>
   <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="30" /></a>
 </div>
 
@@ -72,5 +70,5 @@
 
 
 [email]: mailto:rifkiardianakbar.raa@gmail.com
-[instagram]: https://instagram.com/ardianrifki.jpg
+[instagram]: https://instagram.com/ardianrifkiii
 [telegram]: https://t.me/kikizz7
