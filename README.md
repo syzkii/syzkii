@@ -24,7 +24,7 @@
 ### ⌨️Operating System
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/windows8/windows8-original.svg" width="30" />
+  <!--<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/windows8/windows8-original.svg" width="30" /> -->
 </div>
 
 ### ⌨️Framework & Library
