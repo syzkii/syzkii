@@ -66,4 +66,4 @@
 
 [email]: mailto:rifkiardianakbar.raa@gmail.com
 [instagram]: https://instagram.com/ardianrifkiii
-[telegram]: https://t.me/kikizz7
+[telegram]: https://t.me/
