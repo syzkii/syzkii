@@ -3,7 +3,7 @@
 # Hey there! I'm Rifki Ardian Akbar 👋
 ### You can call me **Kiki**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=57C7FF&center=true&vCenter=true&width=500&lines=IT+Support; Sys+Admin;PHP+%7C+Python+%7C+JavaScript;Open+Source+Enthusiast;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=57C7FF&center=true&vCenter=true&width=500&lines=IT+Support;Sys+Admin;PHP+%7C+Python+%7C+JavaScript;Open+Source+Enthusiast;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=syzkii&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 &nbsp;
