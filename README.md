@@ -146,8 +146,6 @@ currently   : Learning backend architecture & networking
 
 ![Snake animation](https://github.com/syzkii/syzkii/blob/output/github-contribution-grid-snake-dark.svg)
 
-> ℹ️ Untuk mengaktifkan snake animation, buat GitHub Action di repo profile kamu. [Panduan di sini](https://github.com/Platane/snk)
-
 </div>
 
 ---
