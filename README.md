@@ -3,7 +3,7 @@
 # Hey there! I'm Rifki Ardian Akbar 👋
 ### You can call me **Kiki**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=57C7FF&center=true&vCenter=true&width=500&lines=IT+Support;Sys+Admin;PHP+%7C+Python+%7C+JavaScript;Open+Source+Enthusiast;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=57C7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;PHP+%7C+Python+%7C+JavaScript;Open+Source+Enthusiast;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=syzkii&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 &nbsp;
@@ -67,9 +67,10 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syzkii&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)](https://github.com/syzkii)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syzkii&theme=tokyonight&layout=compact&hide_border=true&bg_color=1a1b27&icon_color=686868&title_color=57c7ff&text_color=9aedfe)](https://github.com/syzkii)
+<a href="https://github.com/syzkii">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=syzkii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=syzkii&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</a>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=syzkii&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
@@ -79,13 +80,13 @@
 
 ## 📈 Activity Graph
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=syzkii&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=syzkii&theme=tokyo-night&hide_border=true&area=true)](https://github.com/syzkii)
 
 ---
 
 ## ⏱️ WakaTime Stats
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Syzkii&layout=compact&theme=tokyonight&hide_border=true)](https://wakatime.com/@Syzkii)
+[![WakaTime Stats](https://github-readme-stats-eight-theta.vercel.app/api/wakatime?username=Syzkii&layout=compact&theme=tokyonight&hide_border=true)](https://wakatime.com/@Syzkii)
 
 ---
 
