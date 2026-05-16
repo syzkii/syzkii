@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🌍 Based in **Surabaya, Indonesia**
+- 🌍 Based in **Gresik, Indonesia**
 - 💻 Passionate about **web development** & **open source**
 - 🌱 Currently learning more about **backend architecture**
 - ⚡ Fun fact: I use **Linux** btw 🐧
